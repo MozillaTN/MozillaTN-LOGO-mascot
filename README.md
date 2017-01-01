@@ -15,3 +15,7 @@ which includes
 2. Phototshop file
 3. Image for print
 4. image for web
+
+Stickers contain mockups of how the sticker will look in realtime with the logo
+
+Tshirt contain mockups of how the tshirt will look in realtime with the logo
