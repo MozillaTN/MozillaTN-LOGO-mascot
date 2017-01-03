@@ -1,0 +1,1 @@
+Coffee mug mockup
